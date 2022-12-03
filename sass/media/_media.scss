@@ -1,0 +1,12 @@
+@media (max-width:991px){
+    .ipad{
+        flex-direction: column;
+    }
+}
+
+@media (max-width:767px){
+    nav a{
+        display: none;
+    }
+   
+}

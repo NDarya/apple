@@ -1,0 +1,29 @@
+.ipad_air{
+    background-color: black;
+    padding: 50px 0;
+}
+.ipad {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    h2 {
+        font-weight: 590;
+        font-size: 56px;
+        color: #FFFFFF;
+        display: flex;
+        align-items: center;
+        gap: 0;
+    }
+
+    p {
+        font-weight: 400;
+        font-size: 28px;
+        letter-spacing: 0.01em;
+        color: #FFFFFF;
+    }
+    a{
+        font-size: 21px;
+        color: #2997FF;
+    }
+    
+}

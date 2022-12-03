@@ -1,0 +1,12 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'SF Pro Display';
+}
+
+.container{
+    max-width: 1140px;
+    padding: 0 12px;
+    margin: 0 auto;
+}
